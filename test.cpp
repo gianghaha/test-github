@@ -18,5 +18,7 @@ int main()
 
     cout << "hello";
 
+    cout << "tao repo easy!";
+
     return 0;
 }
