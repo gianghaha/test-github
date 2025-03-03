@@ -20,5 +20,7 @@ int main()
 
     cout << "tao repo easy!";
 
+    cout << "123456";
+
     return 0;
 }
