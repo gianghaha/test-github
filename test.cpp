@@ -20,7 +20,7 @@ int main()
 
     cout << "tao repo easy!";
 
-    cout << "123456, sua code ne";
+    cout << "123456, conflic";
 
     return 0;
 }
