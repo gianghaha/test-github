@@ -20,5 +20,7 @@ int main()
 
     cout << "tao repo easy!";
 
+    cout << "tao conflict";
+
     return 0;
 }
