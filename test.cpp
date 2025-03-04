@@ -20,7 +20,7 @@ int main()
 
     cout << "tao repo easy!";
 
-    cout << "123456, conflic";
+    cout << "123456, tr hop conflic";
 
     return 0;
 }
